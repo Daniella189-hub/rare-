@@ -9,3 +9,10 @@
  echo " what do you do for a living ?"
  read living
  echo "oh so your $living! you can earn money einh!"
+# A simple script to ask about the user's age and favorite food 
+echo " what is your age though? I wonder how old you are"
+read age
+echo " oh you are so young, only $ age! this is interesting"
+echo " and what is your favorite_food"
+read favorite_food
+echo "ooh I also $favorite_food!"
