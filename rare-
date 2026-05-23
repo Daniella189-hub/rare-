@@ -5,3 +5,7 @@
  echo "what is your name ?"
  read name
  echo "hello, $name! welcome to shell scripting"
+ # A simple script to ask for job 
+ echo " what do you do for a living ?"
+ read living
+ echo "oh so your $living! you can earn money einh!"
